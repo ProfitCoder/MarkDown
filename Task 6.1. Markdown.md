@@ -2,7 +2,7 @@
 
 ## Datos personales
 
-Me llamo **Pablo** y estoy cursando actualmente *2 DAW(DESARROLLO DE APLICACIONES WEB BILINÜE)*.
+Me llamo **Pablo** y estoy cursando actualmente *2 DAW(DESARROLLO DE APLICACIONES WEB BILINGÜE)*.
 
 ## Aficiones
 
