@@ -14,7 +14,7 @@ Me llamo **Pablo** y estoy cursando actualmente *2 DAW(DESARROLLO DE APLICACIONE
 
 [Enlace a wikipedia](https://en.wikipedia.org/wiki/Markdown).
 
-![Imagen del Lugar](https://villagratitud.com/wp-content/uploads/2026/04/puerto-banus-marbella-guide-optimized.jpeg), Es una imagen del Puerto.
+![Imagen del Lugar](https://villagratitud.com/wp-content/uploads/2026/04/puerto-banus-marbella-guide-optimized.jpeg)
 
 1. Llegar al puerto, ubicado en la costa de Málaga.
 2. Cuando llegues alli Aparcar, que es lo más complicado.
