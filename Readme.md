@@ -45,4 +45,7 @@ This DataBase uses a distributed form, that is done by the next services:
 
 | Components | Languaje | State | Version | Dependence |
 |------------|----------|-------|---------|------------|
-|API Gateway|GO|Estable|2.4.1|Redis <br> Prometheus|
+|API Gateway |    GO    |Estable|  2.4.1  |Redis<br>Prometheus|
+|    Auth    |   Rust   |Estable|  2.3.0  |PostgreSQL<br>JWT|
+|Query Engine|    C++   |   Beta|  3.0.0  |gRPC<br>LLVM|
+|Storage Node|   Rust   |Estable|  4.1.2  |Rocks<br>Raft|
