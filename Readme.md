@@ -49,3 +49,4 @@ This DataBase uses a distributed form, that is done by the next services:
 |    Auth    |   Rust   |Estable|  2.3.0  |PostgreSQL<br>JWT|
 |Query Engine|    C++   |   Beta|  3.0.0  |gRPC<br>LLVM|
 |Storage Node|   Rust   |Estable|  4.1.2  |Rocks<br>Raft|
+|Monitoring  |  Python  |Experimental|--|Prometheus<br>Grafana|
