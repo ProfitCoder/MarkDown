@@ -45,3 +45,4 @@ This DataBase uses a distributed form, that is done by the next services:
 
 | Components | Languaje | State | Version | Dependence |
 |------------|----------|-------|---------|------------|
+|API Gateway|GO|Estable|2.4.1|Redis <br> Prometheus|
