@@ -48,7 +48,7 @@ This updates the list of available packages.
 
 Result:
 
-[Paste the actual result here.]
+![Apache status](captura2.png)
 
 ## 4. Install Apache
 
@@ -60,7 +60,7 @@ Type `Y` and press Enter to confirm.
 
 Result:
 
-[Paste the actual result here.]
+![Apache status](captura3.png)
 
 ## 5. Check Apache
 
