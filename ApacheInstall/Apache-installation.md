@@ -36,7 +36,7 @@ date
 
 Results:
 
-![Apache status](img-captura1.png)
+![Apache status](img/captura1.png)
 
 ## 3. Update Ubuntu
 
@@ -48,7 +48,7 @@ This updates the list of available packages.
 
 Result:
 
-![Apache status](img-captura2.png)
+![Apache status](img/captura2.png)
 
 ## 4. Install Apache
 
@@ -60,7 +60,7 @@ Type `Y` and press Enter to confirm.
 
 Result:
 
-![Apache status](img-captura3.png)
+![Apache status](img/captura3.png)
 
 ## 5. Check Apache
 
@@ -76,7 +76,7 @@ Active: active (running)
 
 This means Apache is running.
 
-![Apache status](img-captura4.png)
+![Apache status](img/captura4.png)
 
 Press `q` to leave this screen.
 
@@ -96,8 +96,8 @@ This means Apache will start automatically when the server boots.
 
 My result:
 
-![Apache status](img-captura5.png)
-![Apache status](img-captura6.png)
+![Apache status](img/captura5.png)
+![Apache status](img/captura6.png)
 
 ## 7. Stop Apache
 
