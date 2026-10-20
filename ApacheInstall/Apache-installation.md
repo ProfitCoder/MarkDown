@@ -36,7 +36,7 @@ date
 
 Results:
 
-![Apache status](captura1.png)
+![Apache status](img-captura1.png)
 
 ## 3. Update Ubuntu
 
@@ -48,7 +48,7 @@ This updates the list of available packages.
 
 Result:
 
-![Apache status](captura2.png)
+![Apache status](img-captura2.png)
 
 ## 4. Install Apache
 
@@ -60,7 +60,7 @@ Type `Y` and press Enter to confirm.
 
 Result:
 
-![Apache status](captura3.png)
+![Apache status](img-captura3.png)
 
 ## 5. Check Apache
 
@@ -76,7 +76,7 @@ Active: active (running)
 
 This means Apache is running.
 
-[Insert a screenshot of your result.]
+![Apache status](img-captura4.png)
 
 Press `q` to leave this screen.
 
@@ -96,7 +96,8 @@ This means Apache will start automatically when the server boots.
 
 My result:
 
-[Paste the actual result here.]
+![Apache status](img-captura5.png)
+![Apache status](img-captura6.png)
 
 ## 7. Stop Apache
 
@@ -113,7 +114,7 @@ Active: inactive (dead)
 
 This means Apache is stopped.
 
-[Insert a screenshot of your result.]
+![Apache status](img-captura7.png)
 
 ## 8. Start Apache
 
@@ -130,7 +131,7 @@ Active: active (running)
 
 This means Apache is running again.
 
-[Insert a screenshot of your result.]
+![Apache status](img-captura8.png)
 
 ## 9. Reload Apache
 
@@ -145,7 +146,7 @@ If it works, this command normally displays no message.
 
 My result:
 
-[Write what happened here.]
+![Apache status](img-captura9.png)
 
 ## 10. Check the Apache Port
 
@@ -165,7 +166,7 @@ Then run the command again:
 sudo netstat -tulpn
 ```
 
-[Insert a screenshot of the result.]
+![Apache status](img-captura9.png)
 
 ### Port number
 
