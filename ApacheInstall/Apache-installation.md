@@ -36,7 +36,7 @@ date
 
 Results:
 
-[Paste the actual results here.]
+[/captura1.png]
 
 ## 3. Update Ubuntu
 
