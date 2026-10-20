@@ -97,7 +97,6 @@ This means Apache will start automatically when the server boots.
 My result:
 
 ![Apache status](img/captura5.png)
-![Apache status](img/captura6.png)
 
 ## 7. Stop Apache
 
@@ -114,7 +113,7 @@ Active: inactive (dead)
 
 This means Apache is stopped.
 
-![Apache status](img-captura7.png)
+![Apache status](img-captura6.png)
 
 ## 8. Start Apache
 
@@ -131,7 +130,7 @@ Active: active (running)
 
 This means Apache is running again.
 
-![Apache status](img-captura8.png)
+![Apache status](img-captura7.png)
 
 ## 9. Reload Apache
 
@@ -146,7 +145,7 @@ If it works, this command normally displays no message.
 
 My result:
 
-![Apache status](img-captura9.png)
+![Apache status](img-captura8.png)
 
 ## 10. Check the Apache Port
 
