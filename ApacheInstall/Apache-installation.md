@@ -36,7 +36,7 @@ date
 
 Results:
 
-[/captura1.png]
+![Apache status](captura1.png)
 
 ## 3. Update Ubuntu
 
